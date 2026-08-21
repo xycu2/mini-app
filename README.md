@@ -1,6 +1,6 @@
 # 🤖 Telegram Mini App on React
 
-My academic project,which I made about a year ago using a video tutorial. This is a web application (Mini App), которое открывается и работает прямо внутри мессенджера Telegram.
+My academic project,which I made about a year ago using a video tutorial. This is a web application (Mini App), which opens and works right away внутри мессенджера Telegram.
 
 С помощью этого проекта я впервые прикоснулся к библиотеке React, сборщику Vite и узнал, как устроены мини-приложения в ТГ. 
 
